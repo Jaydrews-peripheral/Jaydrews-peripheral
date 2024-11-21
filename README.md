@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaydrews-peripheral
+- 👋 Hi, I’m @Jaydrews
 - 👀 I am intrested in understanding the syntax and cleverness of the current programming language I am engaging with. I believe in continuous learning, even if i can not contribute to at an advanced level I would be highly appreciative to be part of the teams growth.
 - 🌱 I’m currently learning  beginner python through practic and online theory, and cybersecurity via an online course.
 - 💞️ I welcome every collaborative space which would allow me and actively seeking beginner projects to contribute to and learn from.
